@@ -1,0 +1,30 @@
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.exe
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.deps.json
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.runtimeconfig.json
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.dll
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.pdb
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.csproj.AssemblyReference.cache
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.AssemblyInfoInputs.cache
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.AssemblyInfo.cs
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.csproj.CoreCompileInputs.cache
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.dll
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\refint\InClass-Lists.dll
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.pdb
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.genruntimeconfig.cache
+E:\Fall 2022\1260\Code\InClass-Lists\InClass-Lists\obj\Debug\net6.0\ref\InClass-Lists.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.exe
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.deps.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.runtimeconfig.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\bin\Debug\net6.0\InClass-Lists.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.csproj.AssemblyReference.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.AssemblyInfoInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.AssemblyInfo.cs
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.csproj.CoreCompileInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\refint\InClass-Lists.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\InClass-Lists.genruntimeconfig.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Lists\InClass-Lists\InClass-Lists\obj\Debug\net6.0\ref\InClass-Lists.dll
